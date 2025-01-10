@@ -6,7 +6,7 @@ The task involves two parts. The first part is to compile a model and create an 
 
 # Steps:
 1. Download and install OpenModelica on a Windows 10 / 11 machine.
-2. Download the model package from here. Load it in OMEdit which is installed along with OpenModelica. 
+2. Download the model package from here. Load it (all models) in OMEdit which is installed along with OpenModelica. 
 3. Build (compile) the “TwoConnectedTanks” model. This should create an executable program of this model along with other 
    dependent files that this executable program requires to execute it. It corresponds to the simulation of the mentioned 
    model.
