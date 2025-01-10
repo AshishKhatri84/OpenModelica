@@ -11,7 +11,8 @@ The task involves two parts. The first part is to compile a model and create an 
    dependent files that this executable program requires to execute it. It corresponds to the simulation of the mentioned 
    model.
 4. Collect the executable program, its dependent files/libraries, its runtime OS dependencies, etc.
-        <-- All Dependencies are not uploaded to this directory because of large no. and size--> 
+
+   <-- All Dependencies are not uploaded to this directory because of large no. and size--> 
 6. Now, create an app consisting of a simple GUI application in Python.
 7. It should have 3 input fields:
            a. the application to launch
