@@ -11,16 +11,17 @@ The task involves two parts. The first part is to compile a model and create an 
    dependent files that this executable program requires to execute it. It corresponds to the simulation of the mentioned 
    model.
 4. Collect the executable program, its dependent files/libraries, its runtime OS dependencies, etc.
-5. Now, create an app consisting of a simple GUI application in Python.
-6. It should have 3 input fields:
+        <-- All Dependencies are not uploaded to this directory because of large no. and size--> 
+6. Now, create an app consisting of a simple GUI application in Python.
+7. It should have 3 input fields:
            a. the application to launch
            b. start time
            c. stop time
-7. Within the first input field, one should be able to select an application to execute. Here, it will be the executable 
+8. Within the first input field, one should be able to select an application to execute. Here, it will be the executable 
    created from the OpenModelica model.
-8. The second input field will be the start time for the executable as an Integer.
-9. The third input field will be the stop time for the executable as an Integer.
-10. A button should be added to the app. On clicking it, the app will execute the program selected/mentioned in the first 
+9. The second input field will be the start time for the executable as an Integer.
+10. The third input field will be the stop time for the executable as an Integer.
+11. A button should be added to the app. On clicking it, the app will execute the program selected/mentioned in the first 
     input field. As the program here corresponds to the OpenModelica model, running it requires start and stop time. Hence, 
     the values in the second and third input fields need to be given as arguments to the executable. 
 	
